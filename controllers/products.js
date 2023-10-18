@@ -32,12 +32,12 @@ const getAllProducts = async(req,res) => {
         apiData = apiData.select(selectFix);
     }
 
-    let page = Number(req.query.page) || 1;
-    let limit = Number(req.query.limit) || 12;
+    // let page = Number(req.query.page) || 1;
+    // let limit = Number(req.query.limit) || 12;
 
-    let skip = (page - 1) * limit;
+    // let skip = (page - 1) * limit;
 
-    apiData = apiData.skip(skip).limit(limit);
+    // apiData = apiData.skip(skip).limit(limit);
 
     // console.log(queryObject);
 
