@@ -41,14 +41,14 @@ const getAllProducts = async(req,res) => {
 
     // console.log(queryObject);
 
-    // const Products = await apiData;
-    res.status(200).json({ apiData });
+    const Products = await apiData;
+    res.status(200).json({ Products });
 };
 
 const getAllProductsTesting = async(req,res) => {
 
-    // const Products = await Product.find(req.query);
-    res.status(200).json({ apiData });
+    const Products = await Product.find(req.query);
+    res.status(200).json({ Products });
     
 };
 
