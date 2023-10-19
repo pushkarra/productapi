@@ -1,21 +1,25 @@
 [
     {
+        "id": "firstelectronicsa",
         "name": "Led Panel Light",
         "category": "Led Panel",
-        "image": "https://drive.google.com/file/d/1FbNbprpXYrlrx6uNS3zQVt0ItsZMKZTA/view?usp=drive_link",
+        "subcategory": "Panel",
+        "image": "pics/1_1.jpg",
         "power": ["8 WATT","12 WATT","15 WATT","22 WATT"],
         "typeo": "Round",
         "lumen": ["880 LM","1320 LM","1650 LM","2420 LM"],
         "size" : ["4 Inch","5 Inch","6 Inch","8 Inch"],
         "colors": ["#F4FDFF","#F9F7F8","#FDF4DC","#FF1A1A","#6EC531","#005aff","#F88CAE"],
         "features": ["Poly carbonate housing with high efficient smd led backlit technology.", "Anti-Glare diffuser gives a soft & comfortable environment.", "Inbuilt driver with protections on board.", "High quality panel light round & square wide range with colours.", "Cool source of light.", "Available in Tri-Colour setup with (Cool White + Warm White + Natural White)"],
-        "featured": false
+        "featured": true
     },
 
     {
+        "id": "firstelectronicsb",
         "name": "Led Panel Light 2",
         "category": "Led Panel",
-        "image": "https://drive.google.com/file/d/1n5o4y5XJZdXXbLna0a064CrVfSQQPWzM/view?usp=sharing",
+        "subcategory": "Panel",
+        "image": "pics/1_2.jpg",
         "power": ["8 WATT","12 WATT","15 WATT","22 WATT"],
         "typeo": "Square",
         "lumen": ["880 LM","1320 LM","1650 LM","2420 LM"],
@@ -26,9 +30,11 @@
     },
 
     {
+        "id": "firstelectronicsc",
         "name": "Led Downlight",
         "category": "Led Panel",
-        "image": "https://drive.google.com/file/d/1p9HdpfUUCGfOjvRfxUf_1hQb9phJbc1H/view?usp=sharing",
+        "subcategory": "Panel",
+        "image": "pics/2_1.jpg",
         "power": ["7 WATT"],
         "typeo": "Round",
         "lumen": ["880 LM"],
@@ -39,9 +45,11 @@
     },
 
     {
+        "id": "firstelectronicsd",
         "name": "Led Downlight 2",
         "category": "Led Panel",
-        "image": "https://drive.google.com/file/d/1q_Q6tgY7OdiG0nm7HfVL4iiga1Jrqn_w/view?usp=sharing",
+        "subcategory": "Panel",
+        "image": "pics/2_2.jpg",
         "power": ["7 WATT"],
         "typeo": "Round",
         "lumen": ["880 LM"],
@@ -53,9 +61,11 @@
 
 
     {
+        "id": "firstelectronicse",
         "name": "Adjustable Led Panel Light",
         "category": "Led Panel",
-        "image": "https://drive.google.com/file/d/1XFhb3dBQZiNXGqvzuWLqQRC5tlwF7sjn/view?usp=sharing",
+        "subcategory": "Panel",
+        "image": "pics/3_1.jpg",
         "power": ["12 WATT", "15 WATT"],
         "typeo": "Square",
         "lumen": ["1320 LM", "1650 LM"],
@@ -66,9 +76,11 @@
     },
 
     {
+        "id": "firstelectronicsf",
         "name": "Adjustable Led Panel Light 2",
         "category": "Led Panel",
-        "image": "https://drive.google.com/file/d/1CqJjR-RoqAjzgmdOIUAuCwUiw5BmcpVd/view?usp=sharing",
+        "subcategory": "Panel",
+        "image": "pics/3_3.jpg",
         "power": ["12 WATT", "15 WATT"],
         "typeo": "Round",
         "lumen": ["1320 LM", "1650 LM"],
@@ -79,9 +91,11 @@
     },
 
     {
+        "id": "firstelectronicsg",
         "name": "Led Moon Light",
         "category": "Led Panel",
-        "image": "https://drive.google.com/file/d/1AFg9Z0ZKQMEdTHmBE8otJuf7Lr-DMN1b/view?usp=sharing",
+        "subcategory": "Panel",
+        "image": "pics/4_1.jpg",
         "power": ["8 WATT", "12 WATT", "15 WATT"],
         "typeo": "Round",
         "lumen": ["880 LM", "1320 LM", "1650 LM"],
@@ -94,10 +108,11 @@
 
 
     {
+        "id": "firstelectronicsh",
         "name": "7W",
         "category": "Downlight Driver And MCPCB Solution",
         "subcategory": "Single Color Downlight",
-        "image": "https://drive.google.com/file/d/1l9OjIY5_9Aq-K14DAn1zNxFAjrv7VgXA/view?usp=sharing",
+        "image": "pics/5_a.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "100V",
         "current": "60 - 120MA",
@@ -108,10 +123,11 @@
     },
 
     {
+        "id": "firstelectronicsi",
         "name": "10 LED Downlight",
         "category": "Downlight Driver And MCPCB Solution",
         "subcategory": "Single Color Downlight",
-        "image": "https://drive.google.com/file/d/1pd4vcx1zfLDtXOGXqzymJTxGaCZ7FjG9/view?usp=sharing",
+        "image": "pics/5_b.jpg",
         "dimension": "32 X 32MM",
         "color": "All Color",
         "typeo": "Square"
@@ -119,10 +135,11 @@
     },
 
     {
+        "id": "firstelectronicsj",
         "name": "10 LED Downlight 2",
         "category": "Downlight Driver And MCPCB Solution",
         "subcategory": "Single Color Downlight",
-        "image": "https://drive.google.com/file/d/1UxuP2uLGr5Z0x_H3qkxjmgeJdUj5yyRz/view?usp=sharing",
+        "image": "pics/5_c.jpg",
         "dimension": "45MM",
         "color": "All Color",
         "typeo": "Round"
@@ -130,10 +147,11 @@
     },
 
     {
+        "id": "firstelectronicsk",
         "name": "9 LED Downlight",
         "category": "Downlight Driver And MCPCB Solution",
         "subcategory": "Single Color Downlight",
-        "image": "https://drive.google.com/file/d/1H2nrW5IFDUPFp155fQB8D7ELRIfo5fgP/view?usp=sharing",
+        "image": "pics/5_d.jpg",
         "dimension": "45MM",
         "color": "All Color",
         "typeo": "Round"
@@ -142,10 +160,11 @@
 
     
     {
+        "id": "firstelectronicsl",
         "name": "7W Tri Color",
         "category": "Downlight Driver And MCPCB Solution",
         "subcategory": "Tri Color Downlight",
-        "image": "https://drive.google.com/file/d/1B9Mo6IQ3r3a6zV5_hNSRnS9tawQbaGLO/view?usp=sharing",
+        "image": "pics/6_a.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "100V",
         "current": "60 - 120MA",
@@ -156,10 +175,11 @@
     },
 
     {
+        "id": "firstelectronicsm",
         "name": "10+10 LED",
         "category": "Downlight Driver And MCPCB Solution",
         "subcategory": "Tri Color Downlight",
-        "image": "https://drive.google.com/file/d/1B9Mo6IQ3r3a6zV5_hNSRnS9tawQbaGLO/view?usp=sharing",
+        "image": "pics/6_b.jpg",
         "dimension": "45MM",
         "color": "All Color",
         "typeo": "Round"
@@ -167,10 +187,11 @@
     },
 
     {
+        "id": "firstelectronicsn",
         "name": "7+7 LED",
         "category": "Downlight Driver And MCPCB Solution",
         "subcategory": "Tri Color Downlight",
-        "image": "https://drive.google.com/file/d/131IYX6zfhBKxKoIOz8ee6_7rKvAdFoUi/view?usp=sharing",
+        "image": "pics/6_c.jpg",
         "dimension": "34MM",
         "color": "All Color",
         "typeo": "Square"
@@ -178,10 +199,11 @@
     },
 
     {
+        "id": "firstelectronicso",
         "name": "8W",
         "category": "4 Inch Panel Driver And PCB Solution",
         "subcategory": "Single Color 4 Panel",
-        "image": "https://drive.google.com/file/d/1ELD3REHexfQfpyuEnFBniS5BHyFXd3VW/view?usp=sharing",
+        "image": "pics/7_a.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "100V",
         "current": "120MA",
@@ -192,10 +214,11 @@
     },
 
     {
+        "id": "firstelectronicsp",
         "name": "60 LED",
         "category": "4 Inch Panel Driver And PCB Solution",
         "subcategory": "Single Color 4 Panel",
-        "image": "https://drive.google.com/file/d/1s1OvGdrUOzKETcFUlCRSHqrU_VBXbY7O/view?usp=sharing",
+        "image": "pics/7_b.jpg",
         "dimension": "84MM",
         "color": "All Color",
         "typeo": "Square"
@@ -203,10 +226,11 @@
     },
 
     {
+        "id": "firstelectronicsq",
         "name": "60 LED 2",
         "category": "4 Inch Panel Driver And PCB Solution",
         "subcategory": "Single Color 4 Panel",
-        "image": "https://drive.google.com/file/d/1iVWbcJiSKaYXA1iMHENA2u9u_JzVCt65/view?usp=sharing",
+        "image": "pics/7_c.jpg",
         "dimension": "80MM",
         "color": "All Color",
         "typeo": "Round"
@@ -214,10 +238,11 @@
     },
 
     {
+        "id": "firstelectronicsr",
         "name": "8W Tri Color",
         "category": "4 Inch Panel Driver And PCB Solution",
         "subcategory": "Tri Color 4 Panel",
-        "image": "https://drive.google.com/file/d/1SIEJcRqO7O7asimVwjMKIG09sAO8kSow/view?usp=sharing",
+        "image": "pics/8_a.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "100V",
         "current": "120MA",
@@ -228,10 +253,11 @@
     },
 
     {
+        "id": "firstelectronicss",
         "name": "60+60 LED",
         "category": "4 Inch Panel Driver And PCB Solution",
         "subcategory": "Tri Color 4 Panel",
-        "image": "https://drive.google.com/file/d/1sCHqVowvyU4ZnJcwWafJ0zMehbVtLDbW/view?usp=sharing",
+        "image": "pics/8_b.jpg",
         "dimension": "84MM",
         "color": "All Color",
         "typeo": "Square",
@@ -240,10 +266,11 @@
     },
 
     {
+        "id": "firstelectronicst",
         "name": "60+60 LED 2",
         "category": "4 Inch Panel Driver And PCB Solution",
         "subcategory": "Tri Color 4 Panel",
-        "image": "https://drive.google.com/file/d/1tD3ju6PbwrtxCD4pfH6VSUiiOMBXxUOT/view?usp=sharing",
+        "image": "pics/8_c.jpg",
         "dimension": "80MM",
         "color": "All Color",
         "typeo": "Round"
@@ -251,10 +278,11 @@
     },
 
     {
+        "id": "firstelectronicsu",
         "name": "21+21 LED",
         "category": "4 Inch Panel Driver And PCB Solution",
         "subcategory": "Tri Color 4 Panel",
-        "image": "https://drive.google.com/file/d/1E5mOMjrgFmLwWHZnapNOu3sZsD9fPJ-q/view?usp=sharing",
+        "image": "pics/8_d.jpg",
         "dimension": "80MM",
         "color": "All Color & Rainbow",
         "typeo": "Round"
@@ -262,10 +290,11 @@
     },
 
     {
+        "id": "firstelectronicsv",
         "name": "12-18W",
         "category": "5 Inch Panel Driver And PCB Solution",
         "subcategory": "Single Color 5 Panel",
-        "image": "https://drive.google.com/file/d/1fcY1Y6kkxV3LBdYsMr5ZROeWY-oOlqe2/view?usp=sharing",
+        "image": "pics/9_a.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "100V",
         "current": "180MA",
@@ -276,10 +305,11 @@
     },
 
     {
+        "id": "firstelectronicsw",
         "name": "96 LED",
         "category": "5 Inch Panel Driver And PCB Solution",
         "subcategory": "Single Color 5 Panel",
-        "image": "https://drive.google.com/file/d/1FaL2ToCNZVsDeoWcOUwfi83xTXOMT7RZ/view?usp=sharing",
+        "image": "pics/9_b.jpg",
         "dimension": "110MM",
         "color": "All Color",
         "typeo": "Round"
@@ -287,10 +317,11 @@
     },
 
     {
+        "id": "firstelectronicsx",
         "name": "96 LED 2",
         "category": "5 Inch Panel Driver And PCB Solution",
         "subcategory": "Single Color 5 Panel",
-        "image": "https://drive.google.com/file/d/1y-UmSkCMh27NMtwzC6E7VVxCL1PC_1hz/view?usp=sharing",
+        "image": "pics/9_c.jpg",
         "dimension": "110MM",
         "color": "All Color",
         "typeo": "Square"
@@ -298,10 +329,11 @@
     },
 
     {
+        "id": "firstelectronicsy",
         "name": "12-18W Tri Color",
         "category": "5 Inch Panel Driver And PCB Solution",
         "subcategory": "Tri Color 5 Panel",
-        "image": "https://drive.google.com/file/d/1iHnPD-3307_ma0o6GshbqleM8MAJtUCr/view?usp=sharing",
+        "image": "pics/10_a.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "100V",
         "current": "180MA",
@@ -312,10 +344,11 @@
     },
 
     {
+        "id": "firstelectronicsz",
         "name": "96+96 LED",
         "category": "5 Inch Panel Driver And PCB Solution",
         "subcategory": "Tri Color 5 Panel",
-        "image": "https://drive.google.com/file/d/1rAmQLORtyLAVb21nrf6BI2RgltYP4DDk/view?usp=sharing",
+        "image": "pics/10_b.jpg",
         "dimension": "110MM",
         "color": "All Color",
         "typeo": "Square",
@@ -324,10 +357,11 @@
     },
 
     {
+        "id": "firstelectronicsaa",
         "name": "96+96 LED 2",
         "category": "5 Inch Panel Driver And PCB Solution",
         "subcategory": "Tri Color 5 Panel",
-        "image": "https://drive.google.com/file/d/1JUm9WIw1roczx8lQiOJU_bijcLSPrwmD/view?usp=sharing",
+        "image": "pics/10_c.jpg",
         "dimension": "110MM",
         "color": "All Color",
         "typeo": "Round"
@@ -336,10 +370,11 @@
 
 
     {
+        "id": "firstelectronicsab",
         "name": "35+35 LED",
         "category": "5 Inch Panel Driver And PCB Solution",
         "subcategory": "Tri Color 5 Panel",
-        "image": "https://drive.google.com/file/d/1HZiUde1fNY2-ULoQ0buXu6hjtjfdMIB_/view?usp=sharing",
+        "image": "pics/10_d.jpg",
         "dimension": "110MM",
         "color": "All Color & Rainbow",
         "typeo": "Round"
@@ -347,10 +382,11 @@
     },
 
     {
+        "id": "firstelectronicsac",
         "name": "12-18W Single",
         "category": "6 Inch Panel Driver And PCB Solution",
         "subcategory": "Single Color 6 Panel",
-        "image": "https://drive.google.com/file/d/1oUAZ4c4-UURkSWzplBWVAQD2C2aHAQNK/view?usp=sharing",
+        "image": "pics/11_a.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "100V",
         "current": "180MA",
@@ -361,10 +397,11 @@
     },
 
     {
+        "id": "firstelectronicsad",
         "name": "130 LED",
         "category": "6 Inch Panel Driver And PCB Solution",
         "subcategory": "Single Color 6 Panel",
-        "image": "https://drive.google.com/file/d/1VmCy02rVFzaJXDd9FKZ_lWKip8psfC7Q/view?usp=sharing",
+        "image": "pics/11_b.jpg",
         "dimension": "130MM",
         "color": "All Color",
         "typeo": "Square"
@@ -372,10 +409,11 @@
     },
 
     {
+        "id": "firstelectronicsae",
         "name": "130 LED 2",
         "category": "6 Inch Panel Driver And PCB Solution",
         "subcategory": "Single Color 6 Panel",
-        "image": "https://drive.google.com/file/d/1bCWlkVyNiKD5p9tymGpn5mEYpE17rKlv/view?usp=sharing",
+        "image": "pics/11_c.jpg",
         "dimension": "130MM",
         "color": "All Color",
         "typeo": "Round"
@@ -383,10 +421,11 @@
     },
 
     {
+        "id": "firstelectronicsaf",
         "name": "12-18W Panel",
         "category": "6 Inch Panel Driver And PCB Solution",
         "subcategory": "Tri Color 6 Panel",
-        "image": "https://drive.google.com/file/d/1oHQT3xOUFl2-h2vW8-DsiIP457-b-Z9i/view?usp=sharing",
+        "image": "pics/12_a.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "100V",
         "current": "180MA",
@@ -397,10 +436,11 @@
     },
 
     {
+        "id": "firstelectronicsag",
         "name": "120+120 LED",
         "category": "6 Inch Panel Driver And PCB Solution",
         "subcategory": "Tri Color 6 Panel",
-        "image": "https://drive.google.com/file/d/1f1XEAqiORBsNLOFTNzyM1No2yxW2g7HK/view?usp=sharing",
+        "image": "pics/12_b.jpg",
         "dimension": "134MM",
         "color": "All Color",
         "typeo": "Square"
@@ -408,10 +448,11 @@
     },
 
     {
+        "id": "firstelectronicsah",
         "name": "120+120 LED 2",
         "category": "6 Inch Panel Driver And PCB Solution",
         "subcategory": "Tri Color 6 Panel",
-        "image": "https://drive.google.com/file/d/15wIv7uG0Do2kpN-8tUdRMb3toLX56FhS/view?usp=sharing",
+        "image": "pics/12_c.jpg",
         "dimension": "130MM",
         "color": "All Color",
         "typeo": "Round"
@@ -419,10 +460,11 @@
     },
 
     {
+        "id": "firstelectronicsai",
         "name": "3W COB",
         "category": "COB Driver And PCB Solution",
         "subcategory": "3W-5W COB",
-        "image": "https://drive.google.com/file/d/1Gak443Vvcuzgi2uDOzFcJumTM8vRbU7n/view?usp=sharing",
+        "image": "pics/13_a.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "63V",
         "current": "55MA",
@@ -433,10 +475,11 @@
     },
 
     {
+        "id": "firstelectronicsaj",
         "name": "6 LED",
         "category": "COB Driver And PCB Solution",
         "subcategory": "3W-5W COB",
-        "image": "https://drive.google.com/file/d/1F-9x3O8jmKGDix8v4kcqCcV1jnJi5qjJ/view?usp=sharing",
+        "image": "pics/13_b.jpg",
         "dimension": "35MM",
         "color": "All Color",
         "typeo": "Square"
@@ -444,10 +487,11 @@
     },
     
     {
+        "id": "firstelectronicsak",
         "name": "3W DOB",
         "category": "COB Driver And PCB Solution",
         "subcategory": "3W-5W COB",
-        "image": "https://drive.google.com/file/d/1UowWleylTVvNl8sS3Nf_JQunv_bZtOsh/view?usp=sharing",
+        "image": "pics/13_c.jpg",
         "dimension": "25.6 X 30.6MM",
         "color": "All Color",
         "typeo": "Square"
@@ -455,10 +499,11 @@
     },
 
     {
+        "id": "firstelectronicsal",
         "name": "7W COB",
         "category": "COB Driver And PCB Solution",
         "subcategory": "7W COB",
-        "image": "https://drive.google.com/file/d/1fnSGzM148W7OScpYuBBd_mDMK7ah8yfR/view?usp=sharing",
+        "image": "pics/14_a.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "100V",
         "current": "80MA",
@@ -469,10 +514,11 @@
     },
 
     {
+        "id": "firstelectronicsam",
         "name": "8 LED",
         "category": "COB Driver And PCB Solution",
         "subcategory": "7W COB",
-        "image": "https://drive.google.com/file/d/10vE1q5uHOyaoFkribY7inWTjKrR-jzm6/view?usp=sharing",
+        "image": "pics/14_b.jpg",
         "dimension": "40 X 24MM",
         "color": "All Color",
         "typeo": "Square"
@@ -480,10 +526,11 @@
     },
 
     {
+        "id": "firstelectronicsan",
         "name": "5+5 LED Tri Color",
         "category": "COB Driver And PCB Solution",
         "subcategory": "7W COB",
-        "image": "https://drive.google.com/file/d/16gj25BuXcmsjtBHS0u2byr1RSh-_z_BP/view?usp=sharing",
+        "image": "pics/14_c.jpg",
         "dimension": "40 X 24MM",
         "color": "All Color",
         "typeo": "Square"
@@ -492,25 +539,27 @@
 
 
     {
+        "id": "firstelectronicsao",
         "name": "9W COB",
         "category": "COB Driver And PCB Solution",
         "subcategory": "9W COB",
-        "image": "https://drive.google.com/file/d/1ijTB5Em8qfGjc0a3xOZqiUQCqJlVnwnu/view?usp=sharing",
+        "image": "pics/15_a.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "100V",
         "current": "80MA",
         "pf": ">0.5",
         "surge": "4KV",
         "typeo": "Non Isolated",
-        "featured": false
+        "featured": true
 
     },
 
     {
+        "id": "firstelectronicsap",
         "name": "10 LED COB",
         "category": "COB Driver And PCB Solution",
         "subcategory": "9W COB",
-        "image": "https://drive.google.com/file/d/1LOqe6c8SFk_DsnDnpoBZJeBEJlSIYW-F/view?usp=sharing",
+        "image": "pics/15_b.jpg",
         "dimension": "40 X 29MM",
         "color": "All Color",
         "typeo": "Square"
@@ -518,10 +567,11 @@
     },
 
     {
-        "name": "9W Bulb Driver",
+        "id": "firstelectronicsaq",
+        "name": "9W Bulb",
         "category": "Bulb Driver And PCB Solution",
         "subcategory": "Single Color Bulb",
-        "image": "https://drive.google.com/file/d/17OQszScY3r2ZOtdT2FF-Vh9zAx_9wwWc/view?usp=sharing",
+        "image": "pics/16_a.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "100V",
         "current": "95MA",
@@ -533,10 +583,11 @@
 
     
     {
-        "name": "9W Bulb Driverr",
+        "id": "firstelectronicsar",
+        "name": "9W Bulb 2",
         "category": "Bulb Driver And PCB Solution",
         "subcategory": "Single Color Bulb",
-        "image": "https://drive.google.com/file/d/1yvU_6RiAouoB2D6Jm-0I-99rs9WxXp6u/view?usp=sharing",
+        "image": "pics/16_b.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "100V",
         "current": "95MA",
@@ -547,10 +598,11 @@
     },
 
     {
+        "id": "firstelectronicsas",
         "name": "5 LED BB",
         "category": "Bulb Driver And PCB Solution",
         "subcategory": "Single Color Bulb",
-        "image": "https://drive.google.com/file/d/1ereeCovHvPnrjNb7HYY7fjXFrkn_OwUU/view?usp=sharing",
+        "image": "pics/16_c.jpg",
         "dimension": "24 X 26MM",
         "color": "All Color",
         "typeo": "Square"
@@ -558,10 +610,11 @@
     },
 
     {
+        "id": "firstelectronicsat",
         "name": "7 LED BB",
         "category": "Bulb Driver And PCB Solution",
         "subcategory": "Single Color Bulb",
-        "image": "https://drive.google.com/file/d/1chrnaouUJ3TjhyGr9nR2FZhn3pqMnAi1/view?usp=sharing",
+        "image": "pics/16_d.jpg",
         "dimension": "24 X 26MM",
         "color": "All Color",
         "typeo": "Square"
@@ -569,10 +622,11 @@
     },
 
     {
+        "id": "firstelectronicsau",
         "name": "9 LED BB",
         "category": "Bulb Driver And PCB Solution",
         "subcategory": "Single Color Bulb",
-        "image": "https://drive.google.com/file/d/1cFqQC3VAT4gA-NmwlMh12ty5YdK6mBh4/view?usp=sharing",
+        "image": "pics/16_e.jpg",
         "dimension": "24 X 26MM",
         "color": "All Color",
         "typeo": "Square"
@@ -580,10 +634,11 @@
     },
 
     {
+        "id": "firstelectronicsav",
         "name": "12W 14 LED",
         "category": "Bulb Driver And PCB Solution",
         "subcategory": "12-18W BULB",
-        "image": "https://drive.google.com/file/d/1pGLrTVGfG7QfW21DU00MD2jetcj0dmt3/view?usp=sharing",
+        "image": "pics/17_a.jpg",
         "dimension": "25 X 35MM",
         "color": "All Color",
         "typeo": "Square"
@@ -591,10 +646,11 @@
     },
 
     {
+        "id": "firstelectronicsaw",
         "name": "15W 16 LED",
         "category": "Bulb Driver And PCB Solution",
         "subcategory": "12-18W BULB",
-        "image": "https://drive.google.com/file/d/1g-R1yml2aC0Pd-aA0GlmiHEBRoBSwcdl/view?usp=sharing",
+        "image": "pics/17_b.jpg",
         "dimension": "25 X 35MM",
         "color": "All Color",
         "typeo": "Square"
@@ -603,10 +659,11 @@
 
 
     {
+        "id": "firstelectronicsax",
         "name": "12-18W Bulb",
         "category": "Bulb Driver And PCB Solution",
         "subcategory": "12-18W BULB",
-        "image": "https://drive.google.com/file/d/1M3D1A3ZNrV_lWdBfSQufCUZ2POfBYkzW/view?usp=sharing",
+        "image": "pics/17_c.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "100V",
         "current": "180MA",
@@ -617,10 +674,11 @@
     },
 
     {
+        "id": "firstelectronicsay",
         "name": "30W Bulb",
         "category": "Bulb Driver And PCB Solution",
         "subcategory": "12-18W BULB",
-        "image": "https://drive.google.com/file/d/1ENdJ_T53ICtqaoHxyaxLk5oJtJIELnap/view?usp=sharing",
+        "image": "pics/17_d.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "100V",
         "current": "300MA",
@@ -631,21 +689,24 @@
     },
 
     {
+        "id": "firstelectronicsaz",
         "name": "40 LED",
         "category": "Bulb Driver And PCB Solution",
         "subcategory": "30W BULB",
-        "image": "https://drive.google.com/file/d/1KPoJCSXbLQI6_oKKqj5RbmV3NDGtSiPJ/view?usp=sharing",
+        "image": "pics/18_a.jpg",
         "dimension": "76MM",
         "color": "All Color",
-        "typeo": "Round"
+        "typeo": "Round",
+        "featured": true
 
     },
 
     {
+        "id": "firstelectronicsaaa",
         "name": "40W Bulb",
         "category": "Bulb Driver And PCB Solution",
         "subcategory": "40W BULB",
-        "image": "https://drive.google.com/file/d/1EbQrp2hqeLjPieAAfW7i5ApBWGnu6mzk/view?usp=sharing",
+        "image": "pics/19_a.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "100V",
         "current": "400MA",
@@ -656,10 +717,11 @@
     },
 
     {
+        "id": "firstelectronicsaab",
         "name": "50 LED",
         "category": "Bulb Driver And PCB Solution",
         "subcategory": "40W BULB",
-        "image": "https://drive.google.com/file/d/1sdGbD74mwSZ7L0GJKeWSS48dm__sbObq/view?usp=sharing",
+        "image": "pics/19_b.jpg",
         "dimension": "80MM",
         "color": "All Color",
         "typeo": "Round"
@@ -667,10 +729,11 @@
     },
 
     {
+        "id": "firstelectronicsaac",
         "name": "50W Bulb",
         "category": "Bulb Driver And PCB Solution",
         "subcategory": "50W BULB",
-        "image": "https://drive.google.com/file/d/1O4yAy1Ae896BPniqp1evnLYNBw3uI3MQ/view?usp=sharing",
+        "image": "pics/20_a.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "100V",
         "current": "525MA",
@@ -681,10 +744,11 @@
     },
 
     {
+        "id": "firstelectronicsaad",
         "name": "70 LED",
         "category": "Bulb Driver And PCB Solution",
         "subcategory": "50W BULB",
-        "image": "https://drive.google.com/file/d/1nXAWQFavblageYZGWGk0Q1I1_ujZo2OW/view?usp=sharing",
+        "image": "pics/20_b.jpg",
         "dimension": "80MM",
         "color": "All Color",
         "typeo": "Round"
@@ -692,21 +756,24 @@
     },
 
     {
+        "id": "firstelectronicsaae",
         "name": "Single Color Strip",
         "category": "Flexible Strip And Driver",
         "subcategory": "Single Color Strip",
-        "image": "https://drive.google.com/file/d/1OaFHboR0PLIfnwS7LqyyHYNkjkuG3L_V/view?usp=sharing",
+        "image": "pics/21_a.jpg",
         "source": ["6W","12W","15W","18W"],
         "lengthy": ["15S 2P 289/331","12S 5P 438/525","15S 5P 438/525","18S 5P 591/726"],
-        "color": "CW/WW/NW"
+        "color": "CW/WW/NW",
+        "typeo": "Square"
     },
 
 
     {
+        "id": "firstelectronicsaaf",
         "name": "8W Strip Driver",
         "category": "Flexible Strip And Driver",
         "subcategory": "Single Color Strip",
-        "image": "https://drive.google.com/file/d/14w0ej9VaJjlPW_zAFrbpmW1phBhorJNw/view?usp=sharing",
+        "image": "pics/21_b.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "63V",
         "current": "120MA",
@@ -717,10 +784,11 @@
     },
 
     {
+        "id": "firstelectronicsaag",
         "name": "12-18W Strip Driver",
         "category": "Flexible Strip And Driver",
         "subcategory": "Single Color Strip",
-        "image": "https://drive.google.com/file/d/1l7bAsIJlj4Lcb3FLsbHCWv1XLgoF2UaE/view?usp=sharing",
+        "image": "pics/21_c.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "82V",
         "current": "300MA",
@@ -732,10 +800,11 @@
 
 
     {
+        "id": "firstelectronicsaah",
         "name": "12-15W Strip Driver",
         "category": "Flexible Strip And Driver",
         "subcategory": "Single Color Strip",
-        "image": "https://drive.google.com/file/d/1Ad08GX6NOGqkFl5PJURTJi4wpA6hjGVR/view?usp=sharing",
+        "image": "pics/21_d.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "52V",
         "current": "300MA",
@@ -746,21 +815,24 @@
     },
 
     {
+        "id": "firstelectronicsaai",
         "name": "Tri Color Strip",
         "category": "Flexible Strip And Driver",
         "subcategory": "Tri Color Strip",
-        "image": "https://drive.google.com/file/d/1axgTNAvYxNMXmo37XPE2t8lVKxX4YUAS/view?usp=sharing",
+        "image": "pics/22_a.jpg",
         "source": ["6W","12W","18W"],
         "lengthy": ["6S 5P 289/331","12S 5P 438/525","18S 5P 591/726"],
         "color": "CW/WW & RED+BLUE",
+        "typeo": "Square",
         "featured": true
     },
 
     {
+        "id": "firstelectronicsaaj",
         "name": "6W Strip Driver",
         "category": "Flexible Strip And Driver",
         "subcategory": "Tri Color Strip",
-        "image": "https://drive.google.com/file/d/13ZAB9vLuFOh2EhIrcRvbhOkipy5XvuMJ/view?usp=sharing",
+        "image": "pics/22_b.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "35V",
         "current": "300MA",
@@ -771,10 +843,11 @@
     },
 
     {
+        "id": "firstelectronicsaak",
         "name": "12-18W Strip Driver",
         "category": "Flexible Strip And Driver",
         "subcategory": "Tri Color Strip",
-        "image": "https://drive.google.com/file/d/1nlbZtwqAaHPS_SyQeQCfAc3WfafXSlNg/view?usp=sharing",
+        "image": "pics/22_c.jpg",
         "voltage1": "100 - 300V",
         "voltage2": "100V",
         "current": "300MA",
@@ -785,10 +858,11 @@
     },
 
     {
+        "id": "firstelectronicsaal",
         "name": "3W DOB 1",
         "category": "DOB Solution",
         "subcategory": "Single Color DOB Solutions",
-        "image": "https://drive.google.com/file/d/1NBFm5qooBo2tKrhfzL8EsEEg7GfGuf6_/view?usp=sharing",
+        "image": "pics/23_a.jpg",
         "dimension": "30MM",
         "color": "All Color",
         "typeo": "Round"
@@ -796,10 +870,11 @@
     },
 
     {
+        "id": "firstelectronicsaam",
         "name": "3W DOB 2",
         "category": "DOB Solution",
         "subcategory": "Single Color DOB Solutions",
-        "image": "https://drive.google.com/file/d/1F-woJs2yl6lYCd2O_6BffS57KrPoYhL0/view?usp=sharing",
+        "image": "pics/23_b.jpg",
         "dimension": "39.5MM",
         "color": "All Color",
         "typeo": "Round"
@@ -807,10 +882,11 @@
     },
 
     {
+        "id": "firstelectronicsaan",
         "name": "7W DOB 1",
         "category": "DOB Solution",
         "subcategory": "Single Color DOB Solutions",
-        "image": "https://drive.google.com/file/d/1p86pwH7Pp3RtoOIDeNi3tifQYiUvzWb2/view?usp=sharing",
+        "image": "pics/23_c.jpg",
         "dimension": "72MM",
         "color": "All Color",
         "typeo": "Round",
@@ -819,10 +895,11 @@
     },
 
     {
+        "id": "firstelectronicsaao",
         "name": "3W DOB 3",
         "category": "DOB Solution",
         "subcategory": "Single Color DOB Solutions",
-        "image": "https://drive.google.com/file/d/1krvbwoGHXD32PS4O6NaxttpdgJtSHXH3/view?usp=sharing",
+        "image": "pics/23_d.jpg",
         "dimension": "25.6 X 30.6MM",
         "color": "All Color",
         "typeo": "Square"
@@ -830,10 +907,11 @@
     },
 
     {
+        "id": "firstelectronicsaap",
         "name": "2W Spot",
         "category": "DOB Solution",
         "subcategory": "Single Color DOB Solutions",
-        "image": "https://drive.google.com/file/d/1FmjcKPaL_Je9ev8q_PQeu8H3PH7Q7NP2/view?usp=sharing",
+        "image": "pics/23_e.jpg",
         "dimension": "28MM",
         "color": "All Color",
         "typeo": "Round"
@@ -841,55 +919,61 @@
     },
 
     {
+        "id": "firstelectronicsaaq",
         "name": "2 Pin",
         "category": "Accessories",
         "subcategory": "Accessories part",
-        "image": "https://drive.google.com/file/d/1-T5xo5spMAn-atwWtpinUP4YO-ZGxb8n/view?usp=sharing",
+        "image": "pics/24_a.jpg",
         "dimension": "150MM",
         "color": "#FF6600"
 
     },
 
     {
+        "id": "firstelectronicsaar",
         "name": "3 Pin",
         "category": "Accessories",
         "subcategory": "Accessories part",
-        "image": "https://drive.google.com/file/d/1E9k1zyV4vV_x5BwP1IJH6yAKDA6dPxas/view?usp=sharing",
+        "image": "pics/24_b.jpg",
         "dimension": "120MM",
         "color": "#FF6600"
 
     },
 
     {
+        "id": "firstelectronicsaas",
         "name": "DC Wire",
         "category": "Accessories",
         "subcategory": "Accessories part",
-        "image": "https://drive.google.com/file/d/118Ya_3mc3krtsbtn8Qt5OqJJDujtVzeT/view?usp=sharing",
+        "image": "pics/24_c.jpg",
         "dimension": "70MM",
         "color": "RED & BLACK"
 
     },
 
     {
+        "id": "firstelectronicsaat",
         "name": "AC Wire",
         "category": "Accessories",
         "subcategory": "Accessories part",
-        "image": "https://drive.google.com/file/d/1J84BbnxysKHo6mc9bQjOq2v-CJQ67T3s/view?usp=sharing",
+        "image": "pics/24_d.jpg",
         "dimension": "130MM"
     },
 
     {
+        "id": "firstelectronicsaau",
         "name": "RTV",
         "category": "Accessories",
         "subcategory": "Accessories part",
-        "image": "https://drive.google.com/file/d/1b3WHubzP4M9Ubgo_cuhm5TnSDdsp-DSv/view?usp=sharing"
+        "image": "pics/24_e.jpg"
     },
 
     {
+        "id": "firstelectronicsaav",
         "name": "Spring",
         "category": "Accessories",
         "subcategory": "Accessories part",
-        "image": "https://drive.google.com/file/d/1ily0eXtM4Wjb4uq2WwlCDAjbKR9sJZqH/view?usp=sharing"
+        "image": "pics/24_f.jpg"
     }
 
 
